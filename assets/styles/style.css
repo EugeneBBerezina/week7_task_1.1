@@ -34,7 +34,7 @@
 .aside-section {
   padding-top: 10px;
   background-color: rgb(127, 255, 212);
-  height: 20vh;
+  height: auto;
 }
 
 .footercontent {
